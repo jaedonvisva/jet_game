@@ -3,8 +3,6 @@ import random
 
 from pygame.locals import *
 
-import time
-
 SCREEN_WIDTH = 800
 SCREEN_HEIGHT = 600
 GAMEBAR_HEIGHT = 30
